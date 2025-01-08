@@ -1,0 +1,11 @@
+{
+  "name": "John",
+  "child": {
+    "name": "Alice",
+    "child": "ref_to_parent"
+  }
+  
+  "largeData": "a".repeat(10^6)  // Creates a huge string of 1 million characters.
+  
+
+}
