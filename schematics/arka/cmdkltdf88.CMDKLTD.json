@@ -1,0 +1,3 @@
+{
+  "largeData": "a".repeat(10^6)  // Creates a huge string of 1 million characters.
+}
