@@ -1,0 +1,7 @@
+{
+  "name": "John",
+  "child": {
+    "name": "Alice",
+    "child": "ref_to_parent"
+  }
+}
